@@ -1,0 +1,156 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    padding-bottom: 800px;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Inter', serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Coming Soon', cursive;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+/* CLASS SELECTORS */
+.top_container{
+    background-color: #6096B4;
+    position: relative;
+    padding-bottom: 800px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.title-footer{
+    font-size: 15px;
+}
+
+.contact{
+    margin-bottom: 150px;
+
+}
+
+.skills{
+    position: relative;
+
+}
+
+
+.bottom-container{
+    background-color: #BDCDD6;
+}
+
+.middle-cloud {
+    position: absolute;
+    top: 200px;
+}
+
+.right-cloud {
+    position: absolute;
+    right: 0px;
+    top: 50px;
+}
+
+.left-cloud {
+    position: absolute;
+    left: 50px;
+}
+
+
+.duck {
+    position: absolute;
+    bottom: 1px;
+    right: 150px;
+}
+
+.waterlily {
+    position: absolute;
+    left: 1px;
+    bottom: 0px;
+    height: 65%;
+
+}
+
+.myskills-hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+    border-width: 25px;
+}
+
+.contact-hr{
+    margin: 1px;
+}
+
+.footer-link{
+    text-decoration: none;
+    font-size: 50px;
+}
+
+.btn{
+    position: relative;
+    bottom: 1px;
+    border: 1px solid #EEE9DA;
+    background-color: #BDCDD6;
+    margin-top: 50px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 1.2rem;
+    padding: 10px
+}
+
+.projects {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: 25px;
+    top: 100px;
+}
+
+.projects-text{
+    position: relative;
+    right: 500px;
+    background-color: #93BFCF;
+}
+
+.languages-photo{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    right: 200px;
+    top: 750px
+}
+
+.languages-text{
+    position: block;
+    margin-top: 120px;
+    text-align: center;
+    padding-left: 500px;
+    background-color: #93BFCF;
+}
+
+.programming-rating{
+    text-align: center;
+
+}
+
+.coming-soon{
+    position: relative;
+    top: 10px;
+}
