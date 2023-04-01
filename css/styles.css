@@ -119,13 +119,13 @@ h3 {
     position: absolute;
     height: 100px;
     width: 100px;
-    left: 425px;
+    left: 25px;
     top: 100px;
 }
 
 .projects-text{
     position: relative;
-    right: 400px;
+    right: 500px;
     background-color: #93BFCF;
 }
 
