@@ -1,3 +1,3 @@
 Personal Website/Portfolio developed with HTML/CSS
 
-Link : floresloyd.github.io/loydsite/
+Link : https://floresloyd.github.io/loydsite/
